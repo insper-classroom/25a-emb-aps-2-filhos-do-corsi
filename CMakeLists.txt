@@ -12,7 +12,7 @@ if (EXISTS ${picoVscode})
     include(${picoVscode})
 endif()
 # ====================================================================================
-set(PICO_BOARD pico CACHE STRING "Board type")
+set(PICO_BOARD pico2 CACHE STRING "Board type")
 
 cmake_minimum_required(VERSION 3.12)
 
@@ -27,7 +27,6 @@ pico_sdk_init()
 
 # rest of your project
 
-add_subdirectory(oled1_lib)
 add_subdirectory(freertos)
 add_subdirectory(main)
 
