@@ -1,4 +1,4 @@
-# Controle Customizado para Kingdom Come: Deliverence
+# Controle Customizado para Castle Crashers
 
 ## jogo
 **Castle Crashers** -  Um jogo de ação e aventura em estilo beat 'em up, com visual cartoonizado, onde cavaleiros enfrentam hordas de inimigos, chefes e completam missões resgatando princesas e salvando o reino.
