@@ -36,7 +36,7 @@ void x_task(void *p){
 
     while (1) {
         adc_select_input(1);  // Canal X
-        volatile uint16_t result = adc_read();
+        uint16_t result = adc_read();
         
         int escala = ((result - 2047)*255)/2047; 
 
