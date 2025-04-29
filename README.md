@@ -80,6 +80,6 @@ Interrupts:
 ## Imagens do Controle
 ### ideia inicial(econtrole arcade com botoes e joystick)
 --
-![Diagrama do Projeto](controle.png)
+![Diagrama do Projeto](control.png)
 --
 
